@@ -1,3 +1,4 @@
+[![Build Status](http://jenkins.chico.liatr.io/job/eSportsConnect/badge/icon)](http://jenkins.chico.liatr.io/job/eSportsConnect/)
 Dustin Criger, Kaitik Kwok, Jasmine Lee, Khang Yang, Deny Vugdalic, Kobi Tessman
 
 ##Hello_Jenkins <img align="right" src="img/liatrio.png">
